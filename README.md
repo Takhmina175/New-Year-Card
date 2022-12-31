@@ -3,7 +3,7 @@
 
 ## Live Demo
 
-[Demo Link](https://raw.githack.com/Takhmina175/New-Year-Card/main/index.html)
+[Demo Link]()
 
 
 👤 **Takhmina Makhkamova**
