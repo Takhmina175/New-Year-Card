@@ -1,5 +1,5 @@
 # New-Year-Card
->New Year card is created using HTML and CSS mainly for laptop and desktop views. The 2D properties of CSS are used to create the intended flipping effect. 
+>Responsive 'New Year' card is created using HTML, CSS and jQuery. The 2D properties of CSS are used to create the intended flipping effect. 
 
 ## Live Demo
 
