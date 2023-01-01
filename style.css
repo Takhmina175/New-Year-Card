@@ -83,14 +83,6 @@ body {
   transition: all 1s linear;
 }
 
-.container:hover figure#main-page {
-  transform: scaleX(-1);
-  left: 20%;
-}
-.container:hover figure#inner-image {
-  left: 5%;
-}
-
 .container:hover .content > h2 {
   visibility: hidden;
   color: transparent;
