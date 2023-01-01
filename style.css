@@ -20,7 +20,7 @@ body {
 }
 .container .content > h2 {
   text-align: center;
-  font-size: 5rem;
+  font-size: 2vw;
   padding: 0;
   margin: 0;
   font-family: "Great Vibes", cursive;
@@ -34,16 +34,16 @@ body {
 .content {
   position: absolute;
   z-index: 999;
-  left: 6%;
-  top: -2rem;
+  left: 5%;
+  top: 1%;
 }
 .container {
   margin: 0 auto;
   position: relative;
 }
 #main-page {
-  width: 50rem;
-  height: 76rem;
+  width: 20vw;
+  height: 44vh;
   position: absolute;
   z-index: 2;
   background-image: linear-gradient(#f9f7f2, #fcca6f, #fd5d5b, #dd2255);
@@ -53,8 +53,8 @@ body {
 }
 
 #inner-image {
-  width: 55rem;
-  height: 80rem;
+  width: 22vw;
+  height: 48vh;
   position: absolute;
   z-index: 1;
   background-color: #ed3038;
@@ -64,6 +64,7 @@ body {
   position: absolute;
   left: 0%;
   width: 100%;
+  height: 100%;
 }
 
 .border {
